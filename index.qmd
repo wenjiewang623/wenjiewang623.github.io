@@ -5,6 +5,6 @@ title: "wenjiewang"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-![].(/images/aca5f385ac4c6f591c49e8263a543fd.jpg) {width-"75%", fig-align-"center"}
+![](/images/aca5f385ac4c6f591c49e8263a543fd.jpg){width-"75%", fig-align-"center"}
 
 
