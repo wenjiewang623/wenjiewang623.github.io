@@ -65,9 +65,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "wenjiewang",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. {width-“75%”, fig-align-“center”}"
+    "text": "&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;"
+  },
+  {
+    "objectID": "index.html#my-education-journey",
+    "href": "index.html#my-education-journey",
+    "title": "Welcome",
+    "section": "",
+    "text": "&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;"
   },
   {
     "objectID": "about.html",
