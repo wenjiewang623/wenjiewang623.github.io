@@ -3,6 +3,28 @@ title: "About Me"
 format: html
 ---
 
+<!-- 🌅 Background Style -->
+<style>
+body {
+  background-image: url('images/westlake.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+main {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 2rem;
+  border-radius: 16px;
+  max-width: 900px;
+  margin: auto;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+</style>
+
+::: {.hero style="background: rgba(255,255,255,0.8); padding: 40px; border-radius: 12px; text-align: center; margin-bottom: 40px;"}
+
 #  Hi, I'm Wenjie Wang
 
 I'm currently pursuing my **Master's in Applied Business Analytics** at **Boston University**. Previously, I earned a **BBA in Finance** from the University of Iowa. My academic background and internship experience have shaped me into a data-driven problem solver passionate about combining business strategy with analytics.
