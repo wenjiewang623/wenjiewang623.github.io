@@ -1,15 +1,54 @@
 ---
 title: "Resume"
 format: html
+page-layout: full
 ---
 
-#  Resume Download
+<!-- ✨ Resume Page Background Styling -->
+<style>
+body {
+  background: linear-gradient(to bottom right, #e0f7fa, #e1f5fe);
+  font-family: 'Segoe UI', sans-serif;
+  color: #003344;
+}
 
- [Click here to download my PDF resume](files/cv.pdf)
+main {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 16px;
+  padding: 3rem;
+  max-width: 900px;
+  margin: auto;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
+}
+
+h1, h2 {
+  text-align: center;
+  color: #0077b6;
+}
+
+h3 {
+  color: #01579b;
+}
+
+a {
+  color: #0077b6;
+  text-decoration: none;
+  font-weight: 500;
+}
+a:hover {
+  text-decoration: underline;
+}
+</style>
+
+# Resume
+
+## 📄 Resume Download
+
+[Click here to download my PDF resume](files/cv.pdf)
 
 ---
 
-##  Education
+## 🎓 Education
 
 **Boston University**, MS in Applied Business Analytics  
 2024 – Present  
@@ -21,7 +60,7 @@ format: html
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 **Zhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.**  
 *Business Assistant Intern, Southeast Asia Division*  
@@ -29,25 +68,8 @@ Mar 2024 – Jun 2024 | Hangzhou, China
 - Conducted market research and trade analysis on pharmaceutical products and competitors  
 - Analyzed industry supply chains, import/export data, and client cooperation potential  
 - Communicated with customers and factories regarding inquiries, pricing, and order execution  
-- Delivered insights to improve workflow and negotiation strategies
-
-**Zhejiang Aike Intelligent Technology Co., Ltd.**  
-*Financial Analytics Assistant*  
-May 2022 – Jul 2022  
-- Supported IPO planning and industry analysis for robotics and AI electronics  
-- Produced investment reports and collaborated in validation and integration tasks
-
-**Alibaba Group – Tmall Global**  
-*Operator Assistance Intern*  
-Jul 2021 – Nov 2021 & Jun 2020 – Jul 2020  
-- Researched Hong Kong-based e-commerce industry structure  
-- Led financial analysis for the Double 11 event and market trend evaluation
+- Provided practical suggestions that enhanced internal workflows and decision-making
 
 ---
 
-##  Skills
-
-- **Languages:** English (fluent), Mandarin (native), Japanese (basic)  
-- **Tech Tools:** Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS  
-- **Strengths:** Cross-cultural teamwork, research writing, analytical thinking  
 

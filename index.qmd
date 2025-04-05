@@ -51,7 +51,7 @@ Previously, I completed my **BBA in Finance** from the **University of Iowa**. T
 
 ## 🎓 My Education Journey
 ![University of Iowa](images/iowa.jpg){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
-![Boston University](images/boston.jpg){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
+![Boston University](images/boston.jpg){width=600px style="display: block; margin: 16px auto; border-radius: 10px;"}
 
 ---
 
