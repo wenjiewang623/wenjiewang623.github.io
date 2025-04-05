@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>contact – Your Name</title>
+<title>Contact – Your Name</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -117,15 +117,55 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Contact</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<p>format: html: css: styles.css</p>
-<p>body { background: linear-gradient(to bottom, #ccefff, #f0faff); }</p>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<style>
+body {
+  background: linear-gradient(to bottom, #ccefff, #f0faff);
+}
+
+.snowflake {
+  position: fixed;
+  top: -10px;
+  color: white;
+  font-size: 1.2em;
+  animation: fall linear infinite;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+</style>
 <section id="get-in-touch" class="level1">
-<h1>Get in Touch</h1>
+<h1>📬 Get in Touch</h1>
 <p>Feel free to reach out to me through any of the channels below:</p>
 <ul>
 <li><strong>Email:</strong> plutowang122@gmail.com<br>
@@ -134,10 +174,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
 <li><strong>Phone (U.S.):</strong> +1 319 512 0449<br>
 </li>
-<li><strong>GitHub:</strong> [https://github.com/wenjiewang623]</li>
+<li><strong>GitHub:</strong> <a href="https://github.com/wenjiewang623">https://github.com/wenjiewang623</a></li>
 </ul>
 <hr>
 <p><em>I’m open to networking, project collaboration, and new opportunities in finance and analytics!</em></p>
+<script>
+document.body.classList.add("contact-page");
 <script>
   const snowflakes = 30;
   for (let i = 0; i < snowflakes; i++) {
