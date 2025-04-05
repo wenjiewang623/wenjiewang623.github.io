@@ -73,3 +73,31 @@ body {
   width: 45%;
   max-width: 400px;
 }
+
+
+/* ❄️ Snowflake Animation Style */
+.snowflake {
+  position: fixed;
+  top: -10px;
+  color: white;
+  font-size: 1.2em;
+  animation: fall linear infinite;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+/* 🎨 Contact Page Background */
+body.contact-page {
+  background: linear-gradient(to bottom, #ccefff, #f0faff);
+}

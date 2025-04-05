@@ -1,25 +1,52 @@
+---
+title: "Contact"
 format:
   html:
     css: styles.css
+---
 
+<style>
 body {
   background: linear-gradient(to bottom, #ccefff, #f0faff);
 }
 
-#  Get in Touch
+.snowflake {
+  position: fixed;
+  top: -10px;
+  color: white;
+  font-size: 1.2em;
+  animation: fall linear infinite;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+</style>
+
+# 📬 Get in Touch
 
 Feel free to reach out to me through any of the channels below:
 
 - **Email:** plutowang122@gmail.com  
 - **Phone (China):** +86 158 6717 0157  
 - **Phone (U.S.):** +1 319 512 0449  
-- **GitHub:** [https://github.com/wenjiewang623]
+- **GitHub:** [https://github.com/wenjiewang623](https://github.com/wenjiewang623)
 
 ---
 
 _I'm open to networking, project collaboration, and new opportunities in finance and analytics!_
 
-
+<script>
+document.body.classList.add("contact-page");
 <script>
   const snowflakes = 30;
   for (let i = 0; i < snowflakes; i++) {
@@ -32,4 +59,3 @@ _I'm open to networking, project collaboration, and new opportunities in finance
     document.body.appendChild(snowflake);
   }
 </script>
-
