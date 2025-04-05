@@ -144,6 +144,7 @@ body {
   background: linear-gradient(to right, #4facfe, #00f2fe);
   background-attachment: fixed;
   overflow-x: hidden;
+  margin: 0;
 }
 
 .fish {
@@ -165,6 +166,21 @@ body {
   top: 30%; left: -100px; animation-duration: 20s; }
 .fish:nth-child(3) {
   top: 60%; left: -150px; animation-duration: 30s; }
+
+.img-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.img-row img {
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  width: 45%;
+  max-width: 400px;
+}
 </style>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"></p>
 <section id="welcome-to-wenjies-portfolio" class="level1 hero" style="color: white; padding: 40px; border-radius: 12px; text-align: center; margin-bottom: 40px; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover; background-color: rgba(255, 255, 255, 0.1);">
@@ -175,7 +191,9 @@ Previously, I completed my <strong>BBA in Finance</strong> from the <strong>Univ
 <hr>
 <section id="my-education-journey" class="level2">
 <h2 class="anchored" data-anchor-id="my-education-journey">🎓 My Education Journey</h2>
-<p><img src="images/iowa.jpg" class="img-fluid" style="display: block; margin: 20px auto; border-radius: 12px;" width="600" alt="University of Iowa"> <img src="images/boston.jpg" class="img-fluid" style="display: block; margin: 16px auto; border-radius: 10px;" width="600" alt="Boston University"></p>
+<div class="img-row">
+<p><img src="images/iowa.jpg" alt="University of Iowa"> <img src="images/boston.jpg" alt="Boston University"></p>
+</div>
 <hr>
 </section>
 <section id="explore" class="level2">
