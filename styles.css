@@ -28,3 +28,6 @@ body {
     opacity: 0;
   }
 }
+body {
+  background: linear-gradient(to bottom, #ccefff, #f0faff);
+}

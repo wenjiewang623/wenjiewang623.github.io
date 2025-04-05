@@ -128,8 +128,8 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Get in Touch",
     "section": "",
-    "text": "body { background: linear-gradient(to bottom, #ccefff, #f0faff); }\n\nGet in Touch\nFeel free to reach out to me through any of the channels below:\n\nEmail: plutowang122@gmail.com\n\nPhone (China): +86 158 6717 0157\n\nPhone (U.S.): +1 319 512 0449\n\nGitHub: [https://github.com/wenjiewang623]\n\n\nI’m open to networking, project collaboration, and new opportunities in finance and analytics!"
+    "text": "format: html: css: styles.css\nbody { background: linear-gradient(to bottom, #ccefff, #f0faff); }\n\nGet in Touch\nFeel free to reach out to me through any of the channels below:\n\nEmail: plutowang122@gmail.com\n\nPhone (China): +86 158 6717 0157\n\nPhone (U.S.): +1 319 512 0449\n\nGitHub: [https://github.com/wenjiewang623]\n\n\nI’m open to networking, project collaboration, and new opportunities in finance and analytics!"
   }
 ]
