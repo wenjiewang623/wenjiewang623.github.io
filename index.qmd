@@ -1,10 +1,39 @@
 ---
-title: "wenjiewang"
+title: "Welcome"
+format: html
+page-layout: full
 ---
 
-This is a Quarto website.
+##  My Education Journey
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-![](/images/aca5f385ac4c6f591c49e8263a543fd.jpg){width-"75%", fig-align-"center"}
+<div style="display: flex; gap: 30px; justify-content: center; margin-top: 20px;">
+  <div style="text-align: center;">
+    <img src="images/boston.jpg" width="300px" style="border-radius: 12px;"><br>
+    <small>Boston University | Master's Program</small>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/iowa.jpg" width="300px" style="border-radius: 12px;"><br>
+    <small>University of Iowa | Graduation Day</small>
+  </div>
+</div>
+
+
+#  Welcome to Wenjie's Portfolio
+
+Hi there! I'm **Wenjie Wang**, a graduate student at **Boston University** studying Applied Business Analytics.
+
+This is my personal portfolio site, where you can explore:
+
+-  [About Me](about.qmd)
+-  [Projects](projects.qmd)
+-  [Resume](cv.qmd)
+-  [Contact](contact.qmd)
+
+---
+
+To learn more about Quarto websites visit [quarto.org/docs/websites](https://quarto.org/docs/websites)
+
+---
+
 
 
