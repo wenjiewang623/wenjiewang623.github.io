@@ -2,40 +2,50 @@
 title: "Welcome"
 format: html
 page-layout: full
+css: styles.css
 ---
 
-#  Welcome to Wenjie's Portfolio
+::: {.hero style="background: linear-gradient(to right, #004e92, #000428); color: white; padding: 40px; border-radius: 12px; text-align: center; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover;"}
+
+# 👋 Welcome to Wenjie's Portfolio
 
 Hi! I'm **Wenjie Wang**, a graduate student at **Boston University** studying Applied Business Analytics.  
 Previously, I completed my **BBA in Finance** from the **University of Iowa**. This site highlights my academic path, key projects, and experience.
 
+:::
+
 ---
 
-##  My Education Journey
+## 🎓 My Education Journey
 
-<div style="display: flex; gap: 30px; justify-content: center; margin-top: 20px;">
-  <div style="text-align: center;">
-    <img src="images/boston.jpg" width="300px" style="border-radius: 12px;"><br>
-    <small>Boston University | Master's Program</small>
+<div style="display: flex; gap: 30px; justify-content: center; margin-top: 40px;">
+  <div style="text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 12px; border-radius: 16px; background: white;">
+    <img src="images/boston.jpg" width="280px" style="border-radius: 12px;"><br>
+    <small style="color: #444;">📍 Boston University</small>
   </div>
-  <div style="text-align: center;">
-    <img src="images/iowa.jpg" width="300px" style="border-radius: 12px;"><br>
-    <small>University of Iowa | Graduation Day</small>
+  <div style="text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 12px; border-radius: 16px; background: white;">
+    <img src="images/iowa.jpg" width="280px" style="border-radius: 12px;"><br>
+    <small style="color: #444;">🎓 University of Iowa</small>
   </div>
 </div>
 
 ---
 
-##  Explore My Portfolio
+## 🔗 Explore
 
-- [About Me](about.qmd)
-- [Projects](projects.qmd)
-- [Resume](cv.qmd)
-- [Contact](contact.qmd)
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="about.qmd" class="btn" style="background:#0077cc; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">About Me</a>
+  <a href="projects.qmd" class="btn" style="background:#0055aa; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">Projects</a>
+  <a href="cv.qmd" class="btn" style="background:#003f88; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">Resume</a>
+  <a href="contact.qmd" class="btn" style="background:#002f6c; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">Contact</a>
+</div>
 
 ---
 
-To learn more about Quarto websites visit [quarto.org/docs/websites](https://quarto.org/docs/websites)
+<div style="text-align:center; font-size: small; color: #888; margin-top: 40px;">
+To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" target="_blank">quarto.org/docs/websites</a>
+</div>
+
 
 
 
