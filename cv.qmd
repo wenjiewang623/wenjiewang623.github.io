@@ -40,7 +40,6 @@ a:hover {
 }
 </style>
 
-# Resume
 
 ## 📄 Resume Download
 
@@ -70,6 +69,23 @@ Mar 2024 – Jun 2024 | Hangzhou, China
 - Communicated with customers and factories regarding inquiries, pricing, and order execution  
 - Provided practical suggestions that enhanced internal workflows and decision-making
 
+**Zhejiang Aike Intelligent Technology Co., Ltd.**  
+*Financial Analytics Assistant*  
+May 2022 – Jul 2022  
+- Supported IPO planning and industry analysis for robotics and AI electronics  
+- Produced investment reports and collaborated in validation and integration tasks
+
+**Alibaba Group – Tmall Global**  
+*Operator Assistance Intern*  
+Jul 2021 – Nov 2021 & Jun 2020 – Jul 2020  
+- Researched Hong Kong-based e-commerce industry structure  
+- Led financial analysis for the Double 11 event and market trend evaluation
+
 ---
 
+## 🧠 Skills
+
+- **Languages:** English (fluent), Mandarin (native), Japanese (basic)  
+- **Tech Tools:** Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS  
+- **Strengths:** Cross-cultural teamwork, research writing, analytical thinking  
 
