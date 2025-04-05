@@ -1,0 +1,17 @@
+---
+title: "Contact"
+format: html
+---
+
+#  Get in Touch
+
+Feel free to reach out to me through any of the channels below:
+
+- **Email:** plutowang122@gmail.com  
+- **Phone (China):** +86 158 6717 0157  
+- **Phone (U.S.):** +1 319 512 0449  
+- **GitHub:** [https://github.com/wenjiewang623]
+
+---
+
+_I'm open to networking, project collaboration, and new opportunities in finance and analytics!_

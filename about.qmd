@@ -1,5 +1,47 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+#  Hi, I'm Wenjie Wang
+
+I'm currently pursuing my **Master's in Applied Business Analytics** at **Boston University**. Previously, I earned a **BBA in Finance** from the University of Iowa. My academic background and internship experience have shaped me into a data-driven problem solver passionate about combining business strategy with analytics.
+
+---
+
+##  Hometown Highlight
+
+I was born and raised in **Hangzhou**, a beautiful city in eastern China known for its rich culture, tech innovation, and scenic landscapes. The image below shows the **West Lake**, a UNESCO World Heritage Site and one of the most iconic landmarks of Hangzhou. Surrounded by historic pagodas, stone bridges, and lush gardens, West Lake represents the elegance and harmony of traditional Chinese aesthetics. It has been a source of inspiration for poets and artists for centuries—and continues to be a place I deeply treasure.
+
+![West Lake, Hangzhou](images/westlake-image.jfif){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
+
+---
+
+##  Career Goals
+
+- Apply data analytics and finance skills to drive decision-making in global businesses
+- Pursue opportunities in financial analytics, business intelligence, and strategy consulting
+- Contribute to impactful, cross-functional teams and data projects
+
+---
+
+##  Interests & Values
+
+- Business problem-solving through data
+- Financial modeling, M&A, and global markets
+- Piano, swimming, and multicultural communication
+
+---
+
+##  Technical Skills
+
+- **Languages & Tools:** Python, R, SQL, Excel, MATLAB
+- **Platforms:** VS Code, GitHub, RStudio, Jupyter, Google Colab, AWS
+- **Business & Visualization:** Power BI, Bloomberg, Finbox, Wind
+
+---
+
+##  Education
+
+- **Boston University**, MS in Applied Business Analytics (2024–Present)
+- **University of Iowa**, BBA in Finance (2018–2023) | GPA: 3.19

@@ -1,0 +1,53 @@
+---
+title: "Resume"
+format: html
+---
+
+#  Resume Download
+
+ [Click here to download my PDF resume](files/cv.pdf)
+
+---
+
+##  Education
+
+**Boston University**, MS in Applied Business Analytics  
+2024 – Present  
+- Data Mining, Marketing Analytics, Risk Analytics, Web Analytics
+
+**University of Iowa**, BBA in Finance  
+2018 – 2023  
+- Focus: Investment Management, Risk Management, International Finance
+
+---
+
+## Work Experience
+
+**Zhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.**  
+*Business Assistant Intern, Southeast Asia Division*  
+Mar 2024 – Jun 2024 | Hangzhou, China  
+- Conducted market research and trade analysis on pharmaceutical products and competitors  
+- Analyzed industry supply chains, import/export data, and client cooperation potential  
+- Communicated with customers and factories regarding inquiries, pricing, and order execution  
+- Delivered insights to improve workflow and negotiation strategies
+
+**Zhejiang Aike Intelligent Technology Co., Ltd.**  
+*Financial Analytics Assistant*  
+May 2022 – Jul 2022  
+- Supported IPO planning and industry analysis for robotics and AI electronics  
+- Produced investment reports and collaborated in validation and integration tasks
+
+**Alibaba Group – Tmall Global**  
+*Operator Assistance Intern*  
+Jul 2021 – Nov 2021 & Jun 2020 – Jul 2020  
+- Researched Hong Kong-based e-commerce industry structure  
+- Led financial analysis for the Double 11 event and market trend evaluation
+
+---
+
+##  Skills
+
+- **Languages:** English (fluent), Mandarin (native), Japanese (basic)  
+- **Tech Tools:** Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS  
+- **Strengths:** Cross-cultural teamwork, research writing, analytical thinking  
+
