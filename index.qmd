@@ -11,6 +11,7 @@ body {
   background: linear-gradient(to right, #4facfe, #00f2fe);
   background-attachment: fixed;
   overflow-x: hidden;
+  margin: 0;
 }
 
 .fish {
@@ -32,6 +33,21 @@ body {
   top: 30%; left: -100px; animation-duration: 20s; }
 .fish:nth-child(3) {
   top: 60%; left: -150px; animation-duration: 30s; }
+
+.img-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.img-row img {
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  width: 45%;
+  max-width: 400px;
+}
 </style>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish">
@@ -50,8 +66,11 @@ Previously, I completed my **BBA in Finance** from the **University of Iowa**. T
 ---
 
 ## 🎓 My Education Journey
-![University of Iowa](images/iowa.jpg){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
-![Boston University](images/boston.jpg){width=600px style="display: block; margin: 16px auto; border-radius: 10px;"}
+
+<div class="img-row">
+  <img src="images/iowa.jpg" alt="University of Iowa">
+  <img src="images/boston.jpg" alt="Boston University">
+</div>
 
 ---
 
