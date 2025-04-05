@@ -39,7 +39,7 @@
     "href": "cv.html",
     "title": "Resume",
     "section": "",
-    "text": "Click here to download my PDF resume\n\n\n\n\nBoston University, MS in Applied Business Analytics\n2024 – Present\n- Data Mining, Marketing Analytics, Risk Analytics, Web Analytics\nUniversity of Iowa, BBA in Finance\n2018 – 2023\n- Focus: Investment Management, Risk Management, International Finance\n\n\n\n\nZhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.\nBusiness Assistant Intern, Southeast Asia Division\nMar 2024 – Jun 2024 | Hangzhou, China\n- Conducted market research and trade analysis on pharmaceutical products and competitors\n- Analyzed industry supply chains, import/export data, and client cooperation potential\n- Communicated with customers and factories regarding inquiries, pricing, and order execution\n- Provided practical suggestions that enhanced internal workflows and decision-making"
+    "text": "Click here to download my PDF resume"
   },
   {
     "objectID": "cv.html#resume-download",
@@ -52,15 +52,22 @@
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Resume",
-    "section": "",
-    "text": "Boston University, MS in Applied Business Analytics\n2024 – Present\n- Data Mining, Marketing Analytics, Risk Analytics, Web Analytics\nUniversity of Iowa, BBA in Finance\n2018 – 2023\n- Focus: Investment Management, Risk Management, International Finance"
+    "section": "🎓 Education",
+    "text": "🎓 Education\nBoston University, MS in Applied Business Analytics\n2024 – Present\n- Data Mining, Marketing Analytics, Risk Analytics, Web Analytics\nUniversity of Iowa, BBA in Finance\n2018 – 2023\n- Focus: Investment Management, Risk Management, International Finance"
   },
   {
     "objectID": "cv.html#work-experience",
     "href": "cv.html#work-experience",
     "title": "Resume",
-    "section": "",
-    "text": "Zhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.\nBusiness Assistant Intern, Southeast Asia Division\nMar 2024 – Jun 2024 | Hangzhou, China\n- Conducted market research and trade analysis on pharmaceutical products and competitors\n- Analyzed industry supply chains, import/export data, and client cooperation potential\n- Communicated with customers and factories regarding inquiries, pricing, and order execution\n- Provided practical suggestions that enhanced internal workflows and decision-making"
+    "section": "💼 Work Experience",
+    "text": "💼 Work Experience\nZhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.\nBusiness Assistant Intern, Southeast Asia Division\nMar 2024 – Jun 2024 | Hangzhou, China\n- Conducted market research and trade analysis on pharmaceutical products and competitors\n- Analyzed industry supply chains, import/export data, and client cooperation potential\n- Communicated with customers and factories regarding inquiries, pricing, and order execution\n- Provided practical suggestions that enhanced internal workflows and decision-making\nZhejiang Aike Intelligent Technology Co., Ltd.\nFinancial Analytics Assistant\nMay 2022 – Jul 2022\n- Supported IPO planning and industry analysis for robotics and AI electronics\n- Produced investment reports and collaborated in validation and integration tasks\nAlibaba Group – Tmall Global\nOperator Assistance Intern\nJul 2021 – Nov 2021 & Jun 2020 – Jul 2020\n- Researched Hong Kong-based e-commerce industry structure\n- Led financial analysis for the Double 11 event and market trend evaluation"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Resume",
+    "section": "🧠 Skills",
+    "text": "🧠 Skills\n\nLanguages: English (fluent), Mandarin (native), Japanese (basic)\n\nTech Tools: Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS\n\nStrengths: Cross-cultural teamwork, research writing, analytical thinking"
   },
   {
     "objectID": "index.html#my-education-journey",
