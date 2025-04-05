@@ -63,18 +63,11 @@
     "text": "Languages: English (fluent), Mandarin (native), Japanese (basic)\n\nTech Tools: Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS\n\nStrengths: Cross-cultural teamwork, research writing, analytical thinking"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Hi! I’m Wenjie Wang, a graduate student at Boston University studying Applied Business Analytics.\nPreviously, I completed my BBA in Finance from the University of Iowa. This site highlights my academic path, key projects, and experience."
-  },
-  {
     "objectID": "index.html#my-education-journey",
     "href": "index.html#my-education-journey",
     "title": "Welcome",
     "section": "🎓 My Education Journey",
-    "text": "🎓 My Education Journey\n\n\n&lt;img src=\"images/boston.jpg\" width=\"280px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small style=\"color: #444;\"&gt;📍 Boston University&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"280px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small style=\"color: #444;\"&gt;🎓 University of Iowa&lt;/small&gt;"
+    "text": "🎓 My Education Journey\n\n\n\n&lt;img src=\"images/boston.jpg\" width=\"280px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small style=\"color: #444;\"&gt;📍 Boston University&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"280px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small style=\"color: #444;\"&gt;🎓 University of Iowa&lt;/small&gt;"
   },
   {
     "objectID": "index.html#explore",

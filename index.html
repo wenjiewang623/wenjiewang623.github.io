@@ -138,7 +138,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome-to-wenjies-portfolio" class="level1 hero" style="background: linear-gradient(to right, #004e92, #000428); color: white; padding: 40px; border-radius: 12px; text-align: center; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover;">
+<!-- 🐟 Fish Background Effect -->
+<style>
+body {
+  background: linear-gradient(to right, #004e92, #000428);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+.fish {
+  position: fixed;
+  width: 40px;
+  opacity: 0.7;
+  animation: swim 20s linear infinite;
+  z-index: -1;
+}
+
+@keyframes swim {
+  0% { transform: translateX(-10%); }
+  100% { transform: translateX(110%) rotateY(180deg); }
+}
+
+.fish:nth-child(1) {
+  top: 10%; left: -50px; animation-duration: 25s; }
+.fish:nth-child(2) {
+  top: 30%; left: -100px; animation-duration: 20s; }
+.fish:nth-child(3) {
+  top: 60%; left: -150px; animation-duration: 30s; }
+</style>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"></p>
+<section id="welcome-to-wenjies-portfolio" class="level1 hero" style="color: white; padding: 40px; border-radius: 12px; text-align: center; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover;">
 <h1>👋 Welcome to Wenjie’s Portfolio</h1>
 <p>Hi! I’m <strong>Wenjie Wang</strong>, a graduate student at <strong>Boston University</strong> studying Applied Business Analytics.<br>
 Previously, I completed my <strong>BBA in Finance</strong> from the <strong>University of Iowa</strong>. This site highlights my academic path, key projects, and experience.</p>
@@ -146,6 +175,7 @@ Previously, I completed my <strong>BBA in Finance</strong> from the <strong>Univ
 <hr>
 <section id="my-education-journey" class="level2">
 <h2 class="anchored" data-anchor-id="my-education-journey">🎓 My Education Journey</h2>
+<div class="raw">
 <div style="display: flex; gap: 30px; justify-content: center; margin-top: 40px;">
 <div style="text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 12px; border-radius: 16px; background: white;">
 <pre><code>&lt;img src="images/boston.jpg" width="280px" style="border-radius: 12px;"&gt;&lt;br&gt;
@@ -154,6 +184,7 @@ Previously, I completed my <strong>BBA in Finance</strong> from the <strong>Univ
 <div style="text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 12px; border-radius: 16px; background: white;">
 <pre><code>&lt;img src="images/iowa.jpg" width="280px" style="border-radius: 12px;"&gt;&lt;br&gt;
 &lt;small style="color: #444;"&gt;🎓 University of Iowa&lt;/small&gt;</code></pre>
+</div>
 </div>
 </div>
 <hr>
