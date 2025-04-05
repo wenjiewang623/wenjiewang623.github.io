@@ -13,7 +13,8 @@ I'm currently pursuing my **Master's in Applied Business Analytics** at **Boston
 
 I was born and raised in **Hangzhou**, a beautiful city in eastern China known for its rich culture, tech innovation, and scenic landscapes. The image below shows the **West Lake**, a UNESCO World Heritage Site and one of the most iconic landmarks of Hangzhou. Surrounded by historic pagodas, stone bridges, and lush gardens, West Lake represents the elegance and harmony of traditional Chinese aesthetics. It has been a source of inspiration for poets and artists for centuries—and continues to be a place I deeply treasure.
 
-![West Lake, Hangzhou](images/westlake-image.jfif){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
+![West Lake, Hangzhou](images/westlake.jpg){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
+
 
 ---
 
