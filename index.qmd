@@ -4,7 +4,9 @@ format: html
 page-layout: full
 ---
 
-##  My Education Journey
+## 🎓 My Education Journey
+
+:::{.raw}
 
 <div style="display: flex; gap: 30px; justify-content: center; margin-top: 20px;">
   <div style="text-align: center;">
@@ -16,6 +18,9 @@ page-layout: full
     <small>University of Iowa | Graduation Day</small>
   </div>
 </div>
+
+:::
+
 
 
 #  Welcome to Wenjie's Portfolio
