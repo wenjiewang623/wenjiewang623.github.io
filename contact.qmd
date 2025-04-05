@@ -2,6 +2,9 @@
 title: "Contact"
 format: html
 ---
+body {
+  background: linear-gradient(to bottom, #ccefff, #f0faff);
+}
 
 #  Get in Touch
 
@@ -15,3 +18,18 @@ Feel free to reach out to me through any of the channels below:
 ---
 
 _I'm open to networking, project collaboration, and new opportunities in finance and analytics!_
+
+
+<script>
+  const snowflakes = 30;
+  for (let i = 0; i < snowflakes; i++) {
+    const snowflake = document.createElement("div");
+    snowflake.className = "snowflake";
+    snowflake.style.left = Math.random() * 100 + "vw";
+    snowflake.style.animationDuration = (Math.random() * 5 + 5) + "s";
+    snowflake.style.fontSize = (Math.random() * 10 + 10) + "px";
+    snowflake.innerHTML = "❄️";
+    document.body.appendChild(snowflake);
+  }
+</script>
+
