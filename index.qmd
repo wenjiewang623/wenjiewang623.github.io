@@ -4,9 +4,14 @@ format: html
 page-layout: full
 ---
 
-## 🎓 My Education Journey
+#  Welcome to Wenjie's Portfolio
 
-:::{.raw}
+Hi! I'm **Wenjie Wang**, a graduate student at **Boston University** studying Applied Business Analytics.  
+Previously, I completed my **BBA in Finance** from the **University of Iowa**. This site highlights my academic path, key projects, and experience.
+
+---
+
+##  My Education Journey
 
 <div style="display: flex; gap: 30px; justify-content: center; margin-top: 20px;">
   <div style="text-align: center;">
@@ -19,26 +24,19 @@ page-layout: full
   </div>
 </div>
 
-:::
+---
 
+##  Explore My Portfolio
 
-
-#  Welcome to Wenjie's Portfolio
-
-Hi there! I'm **Wenjie Wang**, a graduate student at **Boston University** studying Applied Business Analytics.
-
-This is my personal portfolio site, where you can explore:
-
--  [About Me](about.qmd)
--  [Projects](projects.qmd)
--  [Resume](cv.qmd)
--  [Contact](contact.qmd)
+- [About Me](about.qmd)
+- [Projects](projects.qmd)
+- [Resume](cv.qmd)
+- [Contact](contact.qmd)
 
 ---
 
 To learn more about Quarto websites visit [quarto.org/docs/websites](https://quarto.org/docs/websites)
 
----
 
 
 
