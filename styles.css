@@ -1,1 +1,9 @@
-/* css styles */
+/* styles.css */
+
+body {
+  background-color: #f9f9f9;
+  font-family: "Segoe UI", sans-serif;
+  color: #333;
+}
+
+
