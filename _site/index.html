@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>wenjiewang – Your Name</title>
+<title>Welcome – Your Name</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -113,21 +113,21 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">wenjiewang</h1>
+<h1 class="title">Welcome</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -139,10 +139,76 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>. <img src=".\images/aca5f385ac4c6f591c49e8263a543fd.jpg" class="img-fluid">{width-“75%”, fig-align-“center”}</p>
+<!-- 🐟 Fish Background Effect -->
+<style>
+body {
+  background: linear-gradient(to right,rgb(155, 172, 218),rgb(171, 232, 255));
+  background-attachment: fixed;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+.fish {
+  position: fixed;
+  width: 40px;
+  opacity: 0.7;
+  animation: swim 20s linear infinite;
+  z-index: -1;
+}
+
+@keyframes swim {
+  0% { transform: translateX(-10%); }
+  100% { transform: translateX(110%) rotateY(180deg); }
+}
+
+.fish:nth-child(1) {
+  top: 10%; left: -50px; animation-duration: 25s; }
+.fish:nth-child(2) {
+  top: 30%; left: -100px; animation-duration: 20s; }
+.fish:nth-child(3) {
+  top: 60%; left: -150px; animation-duration: 30s; }
+
+.img-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.img-row img {
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  width: 45%;
+  max-width: 400px;
+}
+</style>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish"></p>
+<section id="welcome-to-wenjies-portfolio" class="level1 hero" style="color: white; padding: 40px; border-radius: 12px; text-align: center; margin-bottom: 40px; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover; background-color: rgba(255, 255, 255, 0.1);">
+<h1>👋 Welcome to Wenjie’s Portfolio</h1>
+<p>Hi! I’m <strong>Wenjie Wang</strong>, a graduate student at <strong>Boston University</strong> studying Applied Business Analytics.<br>
+Previously, I completed my <strong>BBA in Finance</strong> from the <strong>University of Iowa</strong>. This site highlights my academic path, key projects, and experience.</p>
+</section>
+<hr>
+<section id="my-education-journey" class="level2">
+<h2 class="anchored" data-anchor-id="my-education-journey">🎓 My Education Journey</h2>
+<div class="img-row">
+<p><img src="images/iowa.jpg" alt="University of Iowa"> <img src="images/boston.jpg" alt="Boston University"></p>
+</div>
+<hr>
+</section>
+<section id="explore" class="level2">
+<h2 class="anchored" data-anchor-id="explore">🔗 Explore</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<p><a href="./about.html" class="btn" style="background:#0077cc; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">About Me</a> <a href="./projects.html" class="btn" style="background:#0055aa; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">Projects</a> <a href="./cv.html" class="btn" style="background:#003f88; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">Resume</a> <a href="./contact.html" class="btn" style="background:#002f6c; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">Contact</a></p>
+</div>
+<hr>
+<div style="text-align:center; font-size: small; color: #888; margin-top: 40px;">
+<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" target="_blank">quarto.org/docs/websites</a></p>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
