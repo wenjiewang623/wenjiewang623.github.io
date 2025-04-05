@@ -138,6 +138,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>body { background: linear-gradient(to bottom, #ccefff, #f0faff); }</p>
 <section id="get-in-touch" class="level1">
 <h1>Get in Touch</h1>
 <p>Feel free to reach out to me through any of the channels below:</p>
@@ -152,6 +153,18 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <hr>
 <p><em>I’m open to networking, project collaboration, and new opportunities in finance and analytics!</em></p>
+<script>
+  const snowflakes = 30;
+  for (let i = 0; i < snowflakes; i++) {
+    const snowflake = document.createElement("div");
+    snowflake.className = "snowflake";
+    snowflake.style.left = Math.random() * 100 + "vw";
+    snowflake.style.animationDuration = (Math.random() * 5 + 5) + "s";
+    snowflake.style.fontSize = (Math.random() * 10 + 10) + "px";
+    snowflake.innerHTML = "❄️";
+    document.body.appendChild(snowflake);
+  }
+</script>
 
 
 </section>
