@@ -1,10 +1,66 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Supervised by Prof. Robert F. Owen\n- Researched three financial crises: subprime crisis, SVB’s collapse, and UBS’s acquisition of Credit Suisse\n- Developed comparative insights and suggested policies for future debt crisis mitigation\n\n\n\nSupervised by Prof. Nathan D. Koch\n- Designed a retirement strategy for a fictional client\n- Delivered presentations on asset allocation, fund selection, and risk analysis\n\n\n\nSupervised by Prof. Julie K. Alexander\n- Led SWOT and market analysis for M&A evaluation\n- Collaborated with 8-member team and synthesized findings into a data-supported recommendation\n\n\n\n\nBuilt and deployed a personal academic portfolio using Quarto and GitHub Pages\n\nIncludes resume, project portfolio, and contact form for professional outreach"
+  },
+  {
+    "objectID": "projects.html#u.s.-financial-crises-analysis-spring-2023",
+    "href": "projects.html#u.s.-financial-crises-analysis-spring-2023",
+    "title": "Projects",
+    "section": "",
+    "text": "Supervised by Prof. Robert F. Owen\n- Researched three financial crises: subprime crisis, SVB’s collapse, and UBS’s acquisition of Credit Suisse\n- Developed comparative insights and suggested policies for future debt crisis mitigation"
+  },
+  {
+    "objectID": "projects.html#client-financial-planning-simulation-spring-2023",
+    "href": "projects.html#client-financial-planning-simulation-spring-2023",
+    "title": "Projects",
+    "section": "",
+    "text": "Supervised by Prof. Nathan D. Koch\n- Designed a retirement strategy for a fictional client\n- Delivered presentations on asset allocation, fund selection, and risk analysis"
+  },
+  {
+    "objectID": "projects.html#netflix-ma-should-it-acquire-a24-fall-2022",
+    "href": "projects.html#netflix-ma-should-it-acquire-a24-fall-2022",
+    "title": "Projects",
+    "section": "",
+    "text": "Supervised by Prof. Julie K. Alexander\n- Led SWOT and market analysis for M&A evaluation\n- Collaborated with 8-member team and synthesized findings into a data-supported recommendation"
+  },
+  {
+    "objectID": "projects.html#personal-website-portfolio-current-project",
+    "href": "projects.html#personal-website-portfolio-current-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Built and deployed a personal academic portfolio using Quarto and GitHub Pages\n\nIncludes resume, project portfolio, and contact form for professional outreach"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Click here to download my PDF resume\n\n\n\nBoston University, MS in Applied Business Analytics\n2024 – Present\n- Data Mining, Marketing Analytics, Risk Analytics, Web Analytics\nUniversity of Iowa, BBA in Finance\n2018 – 2023\n- Focus: Investment Management, Risk Management, International Finance\n\n\n\n\nZhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.\nBusiness Assistant Intern, Southeast Asia Division\nMar 2024 – Jun 2024 | Hangzhou, China\n- Conducted market research and trade analysis on pharmaceutical products and competitors\n- Analyzed industry supply chains, import/export data, and client cooperation potential\n- Communicated with customers and factories regarding inquiries, pricing, and order execution\n- Delivered insights to improve workflow and negotiation strategies\nZhejiang Aike Intelligent Technology Co., Ltd.\nFinancial Analytics Assistant\nMay 2022 – Jul 2022\n- Supported IPO planning and industry analysis for robotics and AI electronics\n- Produced investment reports and collaborated in validation and integration tasks\nAlibaba Group – Tmall Global\nOperator Assistance Intern\nJul 2021 – Nov 2021 & Jun 2020 – Jul 2020\n- Researched Hong Kong-based e-commerce industry structure\n- Led financial analysis for the Double 11 event and market trend evaluation\n\n\n\n\n\nLanguages: English (fluent), Mandarin (native), Japanese (basic)\n\nTech Tools: Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS\n\nStrengths: Cross-cultural teamwork, research writing, analytical thinking"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Boston University, MS in Applied Business Analytics\n2024 – Present\n- Data Mining, Marketing Analytics, Risk Analytics, Web Analytics\nUniversity of Iowa, BBA in Finance\n2018 – 2023\n- Focus: Investment Management, Risk Management, International Finance"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Zhejiang Hengdian Apeloa IMP. & EXP. Co., Ltd.\nBusiness Assistant Intern, Southeast Asia Division\nMar 2024 – Jun 2024 | Hangzhou, China\n- Conducted market research and trade analysis on pharmaceutical products and competitors\n- Analyzed industry supply chains, import/export data, and client cooperation potential\n- Communicated with customers and factories regarding inquiries, pricing, and order execution\n- Delivered insights to improve workflow and negotiation strategies\nZhejiang Aike Intelligent Technology Co., Ltd.\nFinancial Analytics Assistant\nMay 2022 – Jul 2022\n- Supported IPO planning and industry analysis for robotics and AI electronics\n- Produced investment reports and collaborated in validation and integration tasks\nAlibaba Group – Tmall Global\nOperator Assistance Intern\nJul 2021 – Nov 2021 & Jun 2020 – Jul 2020\n- Researched Hong Kong-based e-commerce industry structure\n- Led financial analysis for the Double 11 event and market trend evaluation"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Languages: English (fluent), Mandarin (native), Japanese (basic)\n\nTech Tools: Python, R, SQL, Excel, Power BI, GitHub, VS Code, RStudio, Jupyter, Google Colab, AWS\n\nStrengths: Cross-cultural teamwork, research writing, analytical thinking"
   },
   {
     "objectID": "index.html",
@@ -12,5 +68,54 @@
     "title": "wenjiewang",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. {width-“75%”, fig-align-“center”}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m currently pursuing my Master’s in Applied Business Analytics at Boston University. Previously, I earned a BBA in Finance from the University of Iowa. My academic background and internship experience have shaped me into a data-driven problem solver passionate about combining business strategy with analytics.\n\n\n\nI was born and raised in Hangzhou, a beautiful city in eastern China known for its rich culture, tech innovation, and scenic landscapes. The image below shows the West Lake, a UNESCO World Heritage Site and one of the most iconic landmarks of Hangzhou. Surrounded by historic pagodas, stone bridges, and lush gardens, West Lake represents the elegance and harmony of traditional Chinese aesthetics. It has been a source of inspiration for poets and artists for centuries—and continues to be a place I deeply treasure.\n\n\n\nWest Lake, Hangzhou\n\n\n\n\n\n\n\nApply data analytics and finance skills to drive decision-making in global businesses\nPursue opportunities in financial analytics, business intelligence, and strategy consulting\nContribute to impactful, cross-functional teams and data projects\n\n\n\n\n\n\nBusiness problem-solving through data\nFinancial modeling, M&A, and global markets\nPiano, swimming, and multicultural communication\n\n\n\n\n\n\nLanguages & Tools: Python, R, SQL, Excel, MATLAB\nPlatforms: VS Code, GitHub, RStudio, Jupyter, Google Colab, AWS\nBusiness & Visualization: Power BI, Bloomberg, Finbox, Wind\n\n\n\n\n\n\nBoston University, MS in Applied Business Analytics (2024–Present)\nUniversity of Iowa, BBA in Finance (2018–2023) | GPA: 3.19"
+  },
+  {
+    "objectID": "about.html#hometown-highlight",
+    "href": "about.html#hometown-highlight",
+    "title": "About Me",
+    "section": "",
+    "text": "I was born and raised in Hangzhou, a beautiful city in eastern China known for its rich culture, tech innovation, and scenic landscapes. The image below shows the West Lake, a UNESCO World Heritage Site and one of the most iconic landmarks of Hangzhou. Surrounded by historic pagodas, stone bridges, and lush gardens, West Lake represents the elegance and harmony of traditional Chinese aesthetics. It has been a source of inspiration for poets and artists for centuries—and continues to be a place I deeply treasure.\n\n\n\nWest Lake, Hangzhou"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Apply data analytics and finance skills to drive decision-making in global businesses\nPursue opportunities in financial analytics, business intelligence, and strategy consulting\nContribute to impactful, cross-functional teams and data projects"
+  },
+  {
+    "objectID": "about.html#interests-values",
+    "href": "about.html#interests-values",
+    "title": "About Me",
+    "section": "",
+    "text": "Business problem-solving through data\nFinancial modeling, M&A, and global markets\nPiano, swimming, and multicultural communication"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Languages & Tools: Python, R, SQL, Excel, MATLAB\nPlatforms: VS Code, GitHub, RStudio, Jupyter, Google Colab, AWS\nBusiness & Visualization: Power BI, Bloomberg, Finbox, Wind"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Boston University, MS in Applied Business Analytics (2024–Present)\nUniversity of Iowa, BBA in Finance (2018–2023) | GPA: 3.19"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\nFeel free to reach out to me through any of the channels below:\n\nEmail: plutowang122@gmail.com\n\nPhone (China): +86 158 6717 0157\n\nPhone (U.S.): +1 319 512 0449\n\nGitHub: [https://github.com/wenjiewang623]\n\n\nI’m open to networking, project collaboration, and new opportunities in finance and analytics!"
   }
 ]
