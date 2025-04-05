@@ -8,7 +8,7 @@ css: styles.css
 <!-- 🐟 Fish Background Effect -->
 <style>
 body {
-  background: linear-gradient(to right, #004e92, #000428);
+  background: linear-gradient(to right, #4facfe, #00f2fe);
   background-attachment: fixed;
   overflow-x: hidden;
 }
@@ -38,7 +38,7 @@ body {
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fish_icon.svg/64px-Fish_icon.svg.png" class="fish">
 
-::: {.hero style="color: white; padding: 40px; border-radius: 12px; text-align: center; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover;"}
+::: {.hero style="color: white; padding: 40px; border-radius: 12px; text-align: center; margin-bottom: 40px; background-image: url('https://www.transparenttextures.com/patterns/fish-scale.png'); background-size: cover; background-color: rgba(255, 255, 255, 0.1);"}
 
 # 👋 Welcome to Wenjie's Portfolio
 
@@ -50,19 +50,8 @@ Previously, I completed my **BBA in Finance** from the **University of Iowa**. T
 ---
 
 ## 🎓 My Education Journey
-
-:::{.raw}
-<div style="display: flex; gap: 30px; justify-content: center; margin-top: 40px;">
-  <div style="text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 12px; border-radius: 16px; background: white;">
-    <img src="images/boston.jpg" width="280px" style="border-radius: 12px;"><br>
-    <small style="color: #444;">📍 Boston University</small>
-  </div>
-  <div style="text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 12px; border-radius: 16px; background: white;">
-    <img src="images/iowa.jpg" width="280px" style="border-radius: 12px;"><br>
-    <small style="color: #444;">🎓 University of Iowa</small>
-  </div>
-</div>
-:::
+![University of Iowa](images/iowa.jpg){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
+![Boston University](images/boston.jpg){width=600px style="display: block; margin: 20px auto; border-radius: 12px;"}
 
 ---
 
