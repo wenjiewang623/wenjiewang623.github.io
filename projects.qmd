@@ -6,6 +6,7 @@ format: html
 #  Projects & Research
 
 ##  U.S. Financial Crises Analysis (Spring 2023)  
+📄 [Click here to view the full report (PDF)](files/US+Financial+Crises+Quincy+Jack+Wenjie.pdf)
 Supervised by Prof. Robert F. Owen  
 - Researched three financial crises: subprime crisis, SVB’s collapse, and UBS's acquisition of Credit Suisse  
 - Developed comparative insights and suggested policies for future debt crisis mitigation  
@@ -15,11 +16,12 @@ Supervised by Prof. Nathan D. Koch
 - Designed a retirement strategy for a fictional client  
 - Delivered presentations on asset allocation, fund selection, and risk analysis  
 
-##  Netflix M&A: Should It Acquire A24? (Fall 2022)  
-Supervised by Prof. Julie K. Alexander  
-- Led SWOT and market analysis for M&A evaluation  
-- Collaborated with 8-member team and synthesized findings into a data-supported recommendation  
+## ⚽ Netflix M&A: Should It Acquire DAZN? (Fall 2022)
+📄 [Click here to view the full report (PDF)](files/DAZN Presentation.pptx (1).pdf)
+Supervised by Prof. Julie K. Alexander
+- Conducted an in-depth strategic evaluation of Netflix acquiring DAZN
+- Delivered analysis covering SWOT, M&A feasibility, market risks, and competitive threats.
+- Proposed Netflix  expansion into sports streaming to diversify content and reach global audiences. 
+- Recommended actionable strategies to integrate DAZN’s exclusive sports rights and global brand.
 
-##  Personal Website Portfolio (Current Project)  
-- Built and deployed a personal academic portfolio using Quarto and GitHub Pages  
-- Includes resume, project portfolio, and contact form for professional outreach  
+ 
