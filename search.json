@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;"
+    "text": "Hi! I’m Wenjie Wang, a graduate student at Boston University studying Applied Business Analytics.\nPreviously, I completed my BBA in Finance from the University of Iowa. This site highlights my academic path, key projects, and experience.\n\n\n\n\n\n&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;\n\n\n\n\n\n\n\nAbout Me\nProjects\nResume\nContact\n\n\nTo learn more about Quarto websites visit quarto.org/docs/websites"
   },
   {
     "objectID": "index.html#my-education-journey",
@@ -75,6 +75,13 @@
     "title": "Welcome",
     "section": "",
     "text": "&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;"
+  },
+  {
+    "objectID": "index.html#explore-my-portfolio",
+    "href": "index.html#explore-my-portfolio",
+    "title": "Welcome",
+    "section": "",
+    "text": "About Me\nProjects\nResume\nContact\n\n\nTo learn more about Quarto websites visit quarto.org/docs/websites"
   },
   {
     "objectID": "about.html",
