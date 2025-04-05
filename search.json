@@ -67,21 +67,21 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi! I’m Wenjie Wang, a graduate student at Boston University studying Applied Business Analytics.\nPreviously, I completed my BBA in Finance from the University of Iowa. This site highlights my academic path, key projects, and experience.\n\n\n\n\n\n&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;\n\n\n\n\n\n\n\nAbout Me\nProjects\nResume\nContact\n\n\nTo learn more about Quarto websites visit quarto.org/docs/websites"
+    "text": "Hi! I’m Wenjie Wang, a graduate student at Boston University studying Applied Business Analytics.\nPreviously, I completed my BBA in Finance from the University of Iowa. This site highlights my academic path, key projects, and experience."
   },
   {
     "objectID": "index.html#my-education-journey",
     "href": "index.html#my-education-journey",
     "title": "Welcome",
-    "section": "",
-    "text": "&lt;img src=\"images/boston.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;Boston University | Master's Program&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"300px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small&gt;University of Iowa | Graduation Day&lt;/small&gt;"
+    "section": "🎓 My Education Journey",
+    "text": "🎓 My Education Journey\n\n\n&lt;img src=\"images/boston.jpg\" width=\"280px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small style=\"color: #444;\"&gt;📍 Boston University&lt;/small&gt;\n\n\n&lt;img src=\"images/iowa.jpg\" width=\"280px\" style=\"border-radius: 12px;\"&gt;&lt;br&gt;\n&lt;small style=\"color: #444;\"&gt;🎓 University of Iowa&lt;/small&gt;"
   },
   {
-    "objectID": "index.html#explore-my-portfolio",
-    "href": "index.html#explore-my-portfolio",
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
     "title": "Welcome",
-    "section": "",
-    "text": "About Me\nProjects\nResume\nContact\n\n\nTo learn more about Quarto websites visit quarto.org/docs/websites"
+    "section": "🔗 Explore",
+    "text": "🔗 Explore\n\nAbout Me Projects Resume Contact\n\n\n\nTo learn more about Quarto websites visit quarto.org/docs/websites"
   },
   {
     "objectID": "about.html",
